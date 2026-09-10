@@ -16,6 +16,8 @@ M1 - Regressão Logística
 M2 - Regressão Logística Balanceada
 M3 - Random Forest
 M4 - Random Forest Balanceado
+M5 - XGBOOST
+M6 - XGBOOST Balanceado
 """
 #%%
 # ============================================================
